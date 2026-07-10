@@ -1,0 +1,14 @@
+{
+  "name": "@anistream/backend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AniStream Express API server",
+  "type": "module",
+  "scripts": {
+    "dev": "echo \"Backend not yet implemented — coming in Step 2\"",
+    "build": "echo \"Backend not yet implemented\"",
+    "typecheck": "echo \"Backend not yet implemented\"",
+    "lint": "echo \"Backend not yet implemented\"",
+    "test": "echo \"Backend not yet implemented\""
+  }
+}
