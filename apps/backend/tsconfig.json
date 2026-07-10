@@ -1,0 +1,9 @@
+{
+  "extends": "@anistream/config/typescript/node",
+  "compilerOptions": {
+    "rootDir": ".",
+    "outDir": "dist"
+  },
+  "include": ["src/**/*"],
+  "exclude": ["dist", "node_modules", "tests"]
+}
